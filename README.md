@@ -2,7 +2,4 @@
 
 ## Grupo 41 "Datonga"
 
-Bravo, Facundo
-Gomez Hobbs, Fernando
-Kler, Alejandro
-Sturla, Manuel
+Integrantes: Facundo Bravo, Fernando Gomez Hobbs, Alejandro Kler y Manuel Sturla.
