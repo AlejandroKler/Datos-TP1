@@ -1,15 +1,8 @@
 # Datos-TP1
 
-## Descargar nbstripout
+## Grupo 41 "Datonga"
 
-https://github.com/kynan/nbstripout
-
-
-# TO DO:
-
-1- Analizar trafico de usa o otros paises
-2- Hacer un cronograma de los hits publicitarios (ese grafico de colorcitos stackeado) Pagina 91
-3- Analizar eso de paid vs organic
-4- Hacer un group by person y ver que eventos tiene cada persona. Luego sacar un promedio de cada evento por persona
-5- Analizar los checkouts por persona
-6- Se puede analizar desde el primer evento (el visited_site con New) de cada usuario, tomando este evento como el cero; cuanto tiempo le lleva o tarda en realizar mas acciones en la pagina
+Bravo, Facundo
+Gomez Hobbs, Fernando
+Kler, Alejandro
+Sturla, Manuel
